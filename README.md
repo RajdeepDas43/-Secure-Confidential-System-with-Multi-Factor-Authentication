@@ -161,4 +161,4 @@ This project is open-source and available under the MIT License.
 
 This `README.md` provides everything you need to set up, compile, execute, and use each feature of the Secure Confidential System. Let me know in my email sohom432@gmail.com if you have questions about additional configurations or functionalities!
 
-This project is open sourced and welcome to issues and features!
+This project is open-source and welcome to issues and features!
